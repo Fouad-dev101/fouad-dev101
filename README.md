@@ -1,68 +1,48 @@
 <h1 align="center">Hi 👋, I'm Fouad</h1>
-<h3 align="center">A passionate Full-Stack Developer & Computer Science Student from Morocco 🇲🇦</h3>
+<h3 align="center">Full-Stack Developer · Morocco 🇲🇦</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Code-React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Code-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/Framework-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-  <img src="https://img.shields.io/badge/Database-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Tools-Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
 ---
 
-### 🧑‍🎓 About Me
+### About
 
-- 🎓 3rd-year Computer Science student — currently working toward my **License**
-- 🏫 Previously studied at **ISTA** (first two years)
-- 💻 I build full-stack web apps with **JavaScript, React, Python, PHP, and Laravel**
-- 🤖 Currently exploring **AI agents** — check out my `First_AI_agent` repo
-- ⚡ Fun fact: I like building tools that solve real problems, from athlete tracking to AI experiments
+I'm a third-year Computer Science student in Morocco focused on **full-stack web development**. I build end-to-end applications — from database design to production deployment — and I've delivered work for real clients.
 
-> 📍 Based in Morocco
+Currently exploring **AI agents** and modern **TypeScript** tooling.
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|-------------|
-| **[First_AI_agent](https://github.com/fouad-dev101/First_AI_agent)** | My first experiment building an intelligent AI agent | `Python` `AI/ML` |
-| **[athlete_tracker](https://github.com/fouad-dev101/athlete_tracker)** | Track and manage athletic performance data | `JavaScript` `React` `SQL` |
-| *More coming soon...* | I'm actively building and learning! | `PHP` `Laravel` |
+**[its-pros-site](https://github.com/Fouad-dev101/its-pros-site)** · `HTML` `CSS` `JavaScript` · [Live site](https://its-pros.com)
+Production website for **ITS PROS**, a heating, air-conditioning, and plumbing company in the Var, France. Built my first real client project end-to-end: new visual identity, functional contact form with spam protection, project gallery with progressive loading, local SEO (`schema.org/HVACBusiness`, Open Graph, sitemap), and a restrictive Content-Security-Policy. Static, zero-dependency, deployed on Netlify with automatic deploys from `main`.
 
----
+**[First_AI_agent](https://github.com/Fouad-dev101/First_AI_agent)** · `Python`
+An experimental AI agent exploring tool use and autonomous task execution.
 
-### 🛠️ What I'm Currently Learning
-
-- 🔹 Advanced **Laravel** (APIs, authentication, scaling)
-- 🔹 **TypeScript** — to level up my React skills
-- 🔹 **Deployment & DevOps basics** (Docker, Vercel, Netlify)
+**[athlete_tracker](https://github.com/Fouad-dev101/athlete_tracker)** · `React` `JavaScript` `SQL`
+A web app for tracking and managing athletic performance data.
 
 ---
 
-### 📊 GitHub Stats
+### Currently working with
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fouad-dev101&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fouad-dev101&theme=radical&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fouad-dev101&layout=compact&theme=radical&hide_border=true" width="45%" />
-</p>
+- **Laravel** — building REST APIs with authentication and role-based access
+- **TypeScript** — migrating React projects to typed components
+- **Docker & deployment** — containerizing apps, CI/CD basics
 
 ---
 
+### Get in touch
 
----
-
-<p align="center">
-  <i>"From ISTA to License — building one project at a time."</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fouad-dev101&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+- GitHub: [@Fouad-dev101](https://github.com/Fouad-dev101)
+- 📍 Morocco
