@@ -37,7 +37,7 @@ A web app for tracking and managing athletic performance data.
 ### Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fouad-dev101&layout=donut&theme=radical&hide_border=true&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fouad-dev101&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
