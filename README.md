@@ -34,6 +34,23 @@ A web app for tracking and managing athletic performance data.
 
 ---
 
+### Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fouad-dev101&layout=donut&theme=radical&hide_border=true&langs_count=6" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-Intermediate-777BB4?style=flat-square&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/React-Intermediate-61DAFB?style=flat-square&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Laravel-Learning-FF2D20?style=flat-square&logo=laravel&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-Intermediate-4479A1?style=flat-square&logo=mysql&logoColor=white">
+</p>
+
+---
+
 ### Currently working with
 
 - **Laravel** — building REST APIs with authentication and role-based access
