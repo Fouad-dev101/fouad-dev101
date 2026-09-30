@@ -32,7 +32,7 @@
 
 I'm **Fouad**, a Full-Stack Developer from 🇲🇦 Morocco who enjoys turning ideas into working software.
 
-I like going beyond just writing code — I enjoy understanding the **problem**, designing the solution, building the architecture, connecting the pieces, and eventually getting the product into the hands of real users.
+I like going beyond just writing code, I enjoy understanding the **problem**, designing the solution, building the architecture, connecting the pieces, and eventually getting the product into the hands of real users.
 
 My current interests sit around:
 
@@ -121,7 +121,7 @@ A few projects I've built while learning, experimenting, and solving real proble
 
 **What this project taught me:**
 
-Building a complete application means much more than making the UI — it means connecting frontend, backend, database, authentication, business logic and user experience into one system.
+Building a complete application means much more than making the UI. It means connecting frontend, backend, database, authentication, business logic and user experience into one system.
 
 🔗 **[View Repository →](https://github.com/Fouad-dev101/athlete-tracker)**
 
@@ -347,7 +347,7 @@ I'm open to opportunities where I can learn, contribute and build real software.
 
 ## 🤝 Let's Build Something
 
-If you're working on something interesting — whether it's a product, startup, open-source project or just a crazy idea — feel free to reach out.
+If you're working on something interesting, whether it's a product, startup, open-source project or just a crazy idea. Feel free to reach out.
 
 <div align="center">
 
